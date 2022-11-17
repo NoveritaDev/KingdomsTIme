@@ -1,0 +1,11 @@
+name: KingdomsTime
+version: 1.0
+author: Noverita
+main: me.kingdoms.kingdomstime.KingdomsTime
+api-version: 1.13
+commands:
+  settimespeed:
+    description: Set time speed.
+    usage: /settimespeed <ratio>
+    permission: kingdomstime.settimespeed
+    default: op
